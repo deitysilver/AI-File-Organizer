@@ -20,4 +20,4 @@ Just sit back and watch the magic unfold.
 
 Now just move your main.py script to whatever messy folder you have and move on with your day.
 
-If you find your results to be less than mediocre, you can go through other models and change.
+If you find your results to be less than mediocre, you can go through other models and select the one that best fits your VRAM. Then change the model name in the code, and voila.
